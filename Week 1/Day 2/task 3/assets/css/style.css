@@ -52,9 +52,11 @@ header {
 #absolute-box-2 {
   /* TODO: 
 Set the position so it is outside of the upper-right corner of Square 2 */
-position: fixed;
-    bottom: 10px;
+position: absolute;
+    bottom: 0px;
     right: 0;
-    top:0px;
+   top:0;
+   left: 650px;
+
 }
 
