@@ -1,6 +1,6 @@
 section {
-  width: 600px;
-  height: 600px;
+  width: 530px;
+  height: 530px;
   text-align: center;
   border: 15px solid black;
 }
@@ -9,6 +9,15 @@ img {
   width: 200px;
   height: 200px;
   background-color: lightblue;
+  border: 10px solid darkblue;
+ padding:10px;
+ margin:10px;
+ 
+
+
+
+
+
   /* TODO: Add a margin property */
   /* TODO: Add a padding property */
   /* TODO: Add a border property */
